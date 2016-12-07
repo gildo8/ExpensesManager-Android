@@ -1,9 +1,9 @@
 # Expenses Manager - Android
 This application let you control on your financial expenses.
 
-- Adding a product you bought with all details(price,place,picture) to your account.
+- Adding a product you bought with all details (price,place,picture and more..) to your account.
 - Viewing Statistics and History.
-- Share this information with a friend and let them watch your list.
+- Share this information with a friends and let them watch your list.
 - Get an Notification when you over the budget.
 
 This app was developed in Android Studio.
