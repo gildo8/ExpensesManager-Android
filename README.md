@@ -1,5 +1,8 @@
 # Expenses Manager - Android
-Android Project in Android Studio
+This application let you control on your financial expenses.
+Adding a product you bought to your account and viewing statistics and history.
+You can also share this information with a friend and watch what is shared with you.
+This app was developed in Android Studio.
 
 APK: https://github.com/gildo8/ExpensesManagerAndroid/blob/master/ExpensesManagerApp.apk
 
