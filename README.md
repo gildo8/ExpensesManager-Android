@@ -8,6 +8,7 @@ This application let you control on your financial expenses.
 
 This app was developed in Android Studio.
 
-APK: https://github.com/gildo8/ExpensesManagerAndroid/blob/master/ExpensesManagerApp.apk
+APK: https://drive.google.com/open?id=0B9idsBtOt8SOQzJ6d2prYVdYTVE
+
 
 Project's Files Url: https://drive.google.com/file/d/0B9idsBtOt8SOMDRXSU43ek9CWEk/view?usp=sharing
